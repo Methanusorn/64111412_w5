@@ -9,16 +9,13 @@ const char *ssid = "IR_Lab";
 const char *password = "ccsadmin";
 const char *mqtt_server = "192.168.0.74";
 const char *mqtt_topic = "dht";
-const int ledPin = D6; 
+const int ledPin = D6;
 
 float temp;
 float hum;
 WiFiClient espClient;
 PubSubClient client(espClient);
 DHT dht11(D4, DHT11);
-
-
-
 
 void setup_wifi() {
     delay(10);
@@ -76,8 +73,6 @@ void setup() {
     setup_wifi();
     client.setServer(mqtt_server, 1883);
     client.setCallback(callback);
-
-    
 }
 
 void loop() {
@@ -87,12 +82,10 @@ void loop() {
     }
     client.loop();
 
-    float humidity = dht11.readHumidity();
-    float temperature = dht11.readTemperature();
+    hum = dht11.readHumidity();
+    temp = dht11.readTemperature();
 
-    if (!isnan(humidity) && !isnan(temperature)) {
-        temp = temperature;
-        hum = humidity;
+    if (!isnan(hum) && !isnan(temp)) {
         IPAddress localIP = WiFi.localIP();
         StaticJsonDocument<200> jsonDocument;
         jsonDocument["humidity"] = hum;
@@ -101,10 +94,7 @@ void loop() {
         String jsonString;
         serializeJson(jsonDocument, jsonString);
         client.publish(mqtt_topic, jsonString.c_str());
-        
     }
 
     delay(5000);
 }
-
-
