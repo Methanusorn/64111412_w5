@@ -1,0 +1,448 @@
+{
+  "data": [
+    {
+      "humidity": 95,
+      "temperature": 26.20000076,
+      "ip": "192.168.0.119",
+      "id": 1
+    },
+    {
+      "humidity": 95,
+      "temperature": 26.20000076,
+      "ip": "192.168.0.119",
+      "id": 2
+    },
+    {
+      "humidity": 95,
+      "temperature": 26.20000076,
+      "ip": "192.168.0.119",
+      "id": 3
+    },
+    {
+      "humidity": 95,
+      "temperature": 26.20000076,
+      "ip": "192.168.0.119",
+      "id": 4
+    },
+    {
+      "humidity": 95,
+      "temperature": 26.20000076,
+      "ip": "192.168.0.119",
+      "id": 5
+    },
+    {
+      "humidity": 95,
+      "temperature": 26.20000076,
+      "ip": "192.168.0.119",
+      "id": 6
+    },
+    {
+      "humidity": 95,
+      "temperature": 26.20000076,
+      "ip": "192.168.0.119",
+      "id": 7
+    },
+    {
+      "humidity": 95,
+      "temperature": 26.20000076,
+      "ip": "192.168.0.119",
+      "id": 8
+    },
+    {
+      "humidity": 95,
+      "temperature": 26.20000076,
+      "ip": "192.168.0.119",
+      "id": 9
+    },
+    {
+      "humidity": 95,
+      "temperature": 26.20000076,
+      "ip": "192.168.0.119",
+      "id": 10
+    },
+    {
+      "humidity": 95,
+      "temperature": 26.39999962,
+      "ip": "192.168.0.119",
+      "id": 11
+    },
+    {
+      "humidity": 95,
+      "temperature": 26.20000076,
+      "ip": "192.168.0.119",
+      "id": 12
+    },
+    {
+      "humidity": 95,
+      "temperature": 26.20000076,
+      "ip": "192.168.0.119",
+      "id": 13
+    },
+    {
+      "humidity": 95,
+      "temperature": 26.10000038,
+      "ip": "192.168.0.119",
+      "id": 14
+    },
+    {
+      "humidity": 95,
+      "temperature": 26.10000038,
+      "ip": "192.168.0.119",
+      "id": 15
+    },
+    {
+      "humidity": 95,
+      "temperature": 26,
+      "ip": "192.168.0.119",
+      "id": 16
+    },
+    {
+      "humidity": 95,
+      "temperature": 26,
+      "ip": "192.168.0.119",
+      "id": 17
+    },
+    {
+      "humidity": 95,
+      "temperature": 26,
+      "ip": "192.168.0.119",
+      "id": 18
+    },
+    {
+      "humidity": 95,
+      "temperature": 26,
+      "ip": "192.168.0.119",
+      "id": 19
+    },
+    {
+      "humidity": 95,
+      "temperature": 26,
+      "ip": "192.168.0.119",
+      "id": 20
+    },
+    {
+      "humidity": 95,
+      "temperature": 26,
+      "ip": "192.168.0.119",
+      "id": 21
+    },
+    {
+      "humidity": 95,
+      "temperature": 26,
+      "ip": "192.168.0.119",
+      "id": 22
+    },
+    {
+      "humidity": 95,
+      "temperature": 26,
+      "ip": "192.168.0.119",
+      "id": 23
+    },
+    {
+      "humidity": 95,
+      "temperature": 26,
+      "ip": "192.168.0.119",
+      "id": 24
+    },
+    {
+      "humidity": 95,
+      "temperature": 26,
+      "ip": "192.168.0.119",
+      "id": 25
+    },
+    {
+      "humidity": 95,
+      "temperature": 26,
+      "ip": "192.168.0.119",
+      "id": 26
+    },
+    {
+      "humidity": 95,
+      "temperature": 25.89999962,
+      "ip": "192.168.0.119",
+      "id": 27
+    },
+    {
+      "humidity": 95,
+      "temperature": 25.89999962,
+      "ip": "192.168.0.119",
+      "id": 28
+    },
+    {
+      "humidity": 95,
+      "temperature": 25.89999962,
+      "ip": "192.168.0.119",
+      "id": 29
+    },
+    {
+      "humidity": 95,
+      "temperature": 25.89999962,
+      "ip": "192.168.0.119",
+      "id": 30
+    },
+    {
+      "humidity": 95,
+      "temperature": 25.89999962,
+      "ip": "192.168.0.119",
+      "id": 31
+    },
+    {
+      "humidity": 95,
+      "temperature": 25.89999962,
+      "ip": "192.168.0.119",
+      "id": 32
+    },
+    {
+      "humidity": 95,
+      "temperature": 26,
+      "ip": "192.168.0.119",
+      "id": 33
+    },
+    {
+      "humidity": 95,
+      "temperature": 26,
+      "ip": "192.168.0.119",
+      "id": 34
+    },
+    {
+      "humidity": 95,
+      "temperature": 26,
+      "ip": "192.168.0.119",
+      "id": 35
+    },
+    {
+      "humidity": 95,
+      "temperature": 26,
+      "ip": "192.168.0.119",
+      "id": 36
+    },
+    {
+      "humidity": 95,
+      "temperature": 26,
+      "ip": "192.168.0.119",
+      "id": 37
+    },
+    {
+      "humidity": 95,
+      "temperature": 26,
+      "ip": "192.168.0.119",
+      "id": 38
+    },
+    {
+      "humidity": 95,
+      "temperature": 26,
+      "ip": "192.168.0.119",
+      "id": 39
+    },
+    {
+      "humidity": 95,
+      "temperature": 26,
+      "ip": "192.168.0.119",
+      "id": 40
+    },
+    {
+      "humidity": 95,
+      "temperature": 26,
+      "ip": "192.168.0.119",
+      "id": 41
+    },
+    {
+      "humidity": 95,
+      "temperature": 26,
+      "ip": "192.168.0.119",
+      "id": 42
+    },
+    {
+      "humidity": 95,
+      "temperature": 26,
+      "ip": "192.168.0.119",
+      "id": 43
+    },
+    {
+      "humidity": 95,
+      "temperature": 26.10000038,
+      "ip": "192.168.0.119",
+      "id": 44
+    },
+    {
+      "humidity": 95,
+      "temperature": 26.10000038,
+      "ip": "192.168.0.119",
+      "id": 45
+    },
+    {
+      "humidity": 95,
+      "temperature": 26.10000038,
+      "ip": "192.168.0.119",
+      "id": 46
+    },
+    {
+      "humidity": 95,
+      "temperature": 26.10000038,
+      "ip": "192.168.0.119",
+      "id": 47
+    },
+    {
+      "humidity": 95,
+      "temperature": 26.10000038,
+      "ip": "192.168.0.119",
+      "id": 48
+    },
+    {
+      "humidity": 95,
+      "temperature": 26.10000038,
+      "ip": "192.168.0.119",
+      "id": 49
+    },
+    {
+      "humidity": 95,
+      "temperature": 26.10000038,
+      "ip": "192.168.0.119",
+      "id": 50
+    },
+    {
+      "humidity": 95,
+      "temperature": 26.10000038,
+      "ip": "192.168.0.119",
+      "id": 51
+    },
+    {
+      "humidity": 95,
+      "temperature": 26.10000038,
+      "ip": "192.168.0.119",
+      "id": 52
+    },
+    {
+      "humidity": 95,
+      "temperature": 26.20000076,
+      "ip": "192.168.0.119",
+      "id": 53
+    },
+    {
+      "humidity": 95,
+      "temperature": 26.20000076,
+      "ip": "192.168.0.119",
+      "id": 54
+    },
+    {
+      "humidity": 95,
+      "temperature": 26.20000076,
+      "ip": "192.168.0.119",
+      "id": 55
+    },
+    {
+      "humidity": 95,
+      "temperature": 26.20000076,
+      "ip": "192.168.0.119",
+      "id": 56
+    },
+    {
+      "humidity": 95,
+      "temperature": 26.20000076,
+      "ip": "192.168.0.119",
+      "id": 57
+    },
+    {
+      "humidity": 95,
+      "temperature": 26.20000076,
+      "ip": "192.168.0.119",
+      "id": 58
+    },
+    {
+      "humidity": 95,
+      "temperature": 26.20000076,
+      "ip": "192.168.0.119",
+      "id": 59
+    },
+    {
+      "humidity": 95,
+      "temperature": 26.20000076,
+      "ip": "192.168.0.119",
+      "id": 60
+    },
+    {
+      "humidity": 95,
+      "temperature": 26.20000076,
+      "ip": "192.168.0.119",
+      "id": 61
+    },
+    {
+      "humidity": 95,
+      "temperature": 26.20000076,
+      "ip": "192.168.0.119",
+      "id": 62
+    },
+    {
+      "humidity": 95,
+      "temperature": 26.29999924,
+      "ip": "192.168.0.119",
+      "id": 63
+    },
+    {
+      "humidity": 95,
+      "temperature": 26.29999924,
+      "ip": "192.168.0.119",
+      "id": 64
+    },
+    {
+      "humidity": 95,
+      "temperature": 26.29999924,
+      "ip": "192.168.0.119",
+      "id": 65
+    },
+    {
+      "humidity": 95,
+      "temperature": 26.29999924,
+      "ip": "192.168.0.119",
+      "id": 66
+    },
+    {
+      "humidity": 95,
+      "temperature": 26.29999924,
+      "ip": "192.168.0.119",
+      "id": 67
+    },
+    {
+      "humidity": 95,
+      "temperature": 26.29999924,
+      "ip": "192.168.0.119",
+      "id": 68
+    },
+    {
+      "humidity": 95,
+      "temperature": 26.29999924,
+      "ip": "192.168.0.119",
+      "id": 69
+    },
+    {
+      "humidity": 95,
+      "temperature": 26.29999924,
+      "ip": "192.168.0.119",
+      "id": 70
+    },
+    {
+      "humidity": 95,
+      "temperature": 26.29999924,
+      "ip": "192.168.0.119",
+      "id": 71
+    },
+    {
+      "humidity": 95,
+      "temperature": 26.29999924,
+      "ip": "192.168.0.119",
+      "id": 72
+    },
+    {
+      "humidity": 95,
+      "temperature": 26.29999924,
+      "ip": "192.168.0.119",
+      "id": 73
+    },
+    {
+      "humidity": 95,
+      "temperature": 26.29999924,
+      "ip": "192.168.0.119",
+      "id": 74
+    }
+  ]
+}
